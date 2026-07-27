@@ -1,3 +1,13 @@
+> [!NOTE]
+> This fork contains only minor patches to be able to build the application without Xcode.
+> Please inspect `Makefile` beforehand, then run and enjoy the app:
+>```sh
+>make build
+>make install
+>```
+
+---
+
 # FocusBlur
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
